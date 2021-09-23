@@ -1,2 +1,2 @@
 # OpenGL-CMake-Setup
-A project setup consisting of glad, glfw, glm, imgui, stb and json using CMake
+A CMake build setup consisting of glad, glfw, glm, imgui, stb and json.
